@@ -42,3 +42,6 @@ so if you don't pass anything as 2nd parameter, the date will change at 6'o cloc
 
 ## On PHPClasses.org
 The class is also in [phpclasses.org](http://www.phpclasses.org/browse/package/6120.html)
+
+## Blog Post
+Original link to the [release post](http://tareq.wedevs.com/2010/04/bangla-date-as-a-php-class/)
