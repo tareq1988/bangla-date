@@ -1,5 +1,4 @@
-# Bangla Date PHP Class #
-******************
+## Bangla Date PHP Class
 
 A PHP Class to convert English dates to equivalent Bangla date.
 
@@ -8,13 +7,11 @@ e.g: 02-03-2012 converts to ১৯ ফাল্গুন ১৪১৮
 > According to Bangla culture, the date changes not after 12'o clock at night, but it changes after sun rise at morning.
 
 ## Class Constructor
-***
 It has 2 parameter. The first parameter is a **date timestamp**. If you want to change the date after 12 AM (just like English dates), you have to pass the second as **0**. The default is **6**.
 
 so if you don't pass anything as 2nd parameter, the date will change at 6'o clock at morning.
 
-# Usage
-***
+## Usage
 
 ### Current Date
     $bn_date = new BanglaDate( time() );
